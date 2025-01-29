@@ -1,2 +1,2 @@
 # TIAND-SLAM
-A SLAM Dataset on on INdian Highway and IIT Hyderabad Campus
+A SLAM Dataset on on Indian Highway and IIT Hyderabad Campus
