@@ -8,3 +8,5 @@ A synchronized instance comprising images from six cameras, a 3D LiDAR point clo
 Sensor setup on the data collection vehicle:
 ![ertiga_dcv drawio (1)](https://github.com/user-attachments/assets/e37b171d-f755-417b-9595-93caf5a1c97d)
 
+
+TiAND-SLAM Dataset Paper is accepted in IEEE Intelligent Vehicle Symposium 2025. 
